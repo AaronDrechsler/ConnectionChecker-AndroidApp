@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">new Connection Checker</string>
+    <string name="button">Button</string>
+    <string name="load" />
+</resources>
